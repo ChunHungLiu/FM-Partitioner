@@ -1,6 +1,6 @@
 --How to Compile
 In this directory, type the command: make
-It will generate the executable file "M_Partitioner" in the same directory.
+It will generate the executable file "FM_Partitioner" in the same directory.
 If you want to remove it please type the command: make clean
 
 --How to Run
